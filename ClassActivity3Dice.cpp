@@ -5,7 +5,7 @@ int main()
 {
     long ElapsedSeconds = time(0);
 
-	srand(ElapsedSeconds);
+    srand(ElapsedSeconds);
     int minValue = 1;
     int maxValue = 6;
 
