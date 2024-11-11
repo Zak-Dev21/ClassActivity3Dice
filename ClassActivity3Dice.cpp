@@ -1,5 +1,6 @@
 // generates 2 random values between 1 - 6
 #include <iostream>
+#include <limits>
 
 int main()
 {
